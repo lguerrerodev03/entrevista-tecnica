@@ -1,3 +1,6 @@
+console.log("############################");
+console.log("## PROBLEMA 1 ##");
+console.log("############################");
 
 let arreglo = [1, 2, 3, 4, 5];
 let n = 3;
